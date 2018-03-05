@@ -1,13 +1,12 @@
 {
-    "name"       : "automattic/batcache",
+    "name"       : "jaakkolehtonen-sysart/batcache",
     "description": "A memcached HTML page cache for WordPress.",
-    "homepage"   : "https://github.com/Automattic/batcache",
+    "homepage"   : "https://github.com/jaakkolehtonen-sysart/batcache",
     "type"       : "wordpress-muplugin",
     "license"    : "GPL-2.0+",
     "support"    : {
-			"issues": "https://github.com/Automattic/batcache/issues",
-			"forum":  "https://wordpress.org/support/plugin/batcache",
-			"source": "https://github.com/Automattic/batcache"
+			"issues": "https://github.com/jaakkolehtonen-sysart/batcache/issues",
+			"source": "https://github.com/jaakkolehtonen-sysart/batcache"
 	},
     "require"    : {
         "composer/installers": "~1.0"
